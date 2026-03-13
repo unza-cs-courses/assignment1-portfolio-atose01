@@ -127,9 +127,9 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** [Atosey Banda]
+**Student ID:** [2022003942]
+**Design Theme:** [A modern, minimalist portfolio design with a responsive layout. The theme uses simple colors, clear typography, and structured sections to highlight personal information, projects, and contact details while maintaining a clean and professional appearance.]
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
@@ -139,10 +139,19 @@ Before submitting, verify:
 - [ ] Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+**Challenges & Solutions**
+One challenge I faced was creating a layout that works well on different screen sizes. Initially, the project cards appeared too large on mobile devices and caused layout issues. I solved this by using a mobile-first approach and applying CSS Grid with media queries to adjust the number of columns for tablet and desktop screens.
+
+Another challenge was aligning navigation elements properly in the header. The links and logo were not positioned correctly at first. I solved this by using Flexbox to control alignment and spacing, allowing the logo to stay on the left while the navigation links remain on the right.
+
+I also experienced difficulty maintaining consistent spacing and colors throughout the website. To solve this, I used CSS custom properties (variables) to define colors, font sizes, and spacing values. This made the design easier to manage and ensured consistency across all sections of the portfolio.
+
+Lastly, ensuring the website looked professional and readable required adjusting typography and spacing. I tested the design using browser developer tools at different screen sizes and refined the layout until it worked smoothly on mobile, tablet, and desktop devices.
+
 
 ### Credits
 [List any images, fonts, or resources used with attribution]
+
 
 ---
 
